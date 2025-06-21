@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/unknown007-vic/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/unknown007-vic/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/unknown007-vic/Leetcode/tree/master/0561-array-partition) |
+| [2058-concatenation-of-array](https://github.com/unknown007-vic/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/unknown007-vic/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/unknown007-vic/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
