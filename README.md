@@ -56,12 +56,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/unknown007-vic/Leetcode/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/unknown007-vic/Leetcode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/unknown007-vic/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/unknown007-vic/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/unknown007-vic/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/unknown007-vic/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/unknown007-vic/Leetcode/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/unknown007-vic/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
