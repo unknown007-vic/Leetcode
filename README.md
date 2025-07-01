@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unknown007-vic/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unknown007-vic/Leetcode/tree/master/0027-remove-element) |
+| [0152-maximum-product-subarray](https://github.com/unknown007-vic/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/unknown007-vic/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unknown007-vic/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/unknown007-vic/Leetcode/tree/master/0455-assign-cookies) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/unknown007-vic/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/unknown007-vic/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
