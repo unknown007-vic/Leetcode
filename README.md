@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/unknown007-vic/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/unknown007-vic/Leetcode/tree/master/0561-array-partition) |
 | [2058-concatenation-of-array](https://github.com/unknown007-vic/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/unknown007-vic/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/unknown007-vic/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/unknown007-vic/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unknown007-vic/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/unknown007-vic/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/unknown007-vic/Leetcode/tree/master/0561-array-partition) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/unknown007-vic/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
