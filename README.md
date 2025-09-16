@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/unknown007-vic/Leetcode/tree/master/0561-array-partition) |
 | [2058-concatenation-of-array](https://github.com/unknown007-vic/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/unknown007-vic/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/unknown007-vic/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/unknown007-vic/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unknown007-vic/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/unknown007-vic/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/unknown007-vic/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/unknown007-vic/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/unknown007-vic/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/unknown007-vic/Leetcode/tree/master/0268-missing-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/unknown007-vic/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
